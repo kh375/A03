@@ -15,18 +15,18 @@ Tutorial:
 
 
 Vocab Words:
-GIT – program that tracks changes made to files
-GITHUB – an open source version control system that allows the ability for multiple people to work on the same document at the same time
-Repository – the .git/ folder inside a project; tracks all changes made to files in your project, building a history over time
-Clone – git clone command copies an existing git repository
-Commit – command that is used to save your changes to the local repository
-Push – command that is used to upload local repository content to a remote repository
-Pull – command that is used to fetch and download content from a remote repository and immediately update the local repository to match the content
-Branch – a lightweight movable pointer to a commit
-Merge – command that lets you take the independent lines of development created by git branch and integrate them into a single branch
-Merge Conflict – happens when you merge branches that have competing commits, and git needs your help to decide which changes to incorporate in the final merge
-Fetch – command that downloads commits, files, and refs from a remote repository into your local repository
-Remote – command that is an interface for managing a list of remote entries that are stored in the repository’s ./.git/config file
+•	GIT – program that tracks changes made to file
+•	GITHUB – an open source version control system that allows the ability for multiple people to work on the same document at the same time
+•	Repository – the .git/ folder inside a project; tracks all changes made to files in your project, building a history over time
+•	Clone – git clone command copies an existing git repository
+•	Commit – command that is used to save your changes to the local repository
+•	Push – command that is used to upload local repository content to a remote repository
+•	Pull – command that is used to fetch and download content from a remote repository and immediately update the local repository to match the content
+•	Branch – a lightweight movable pointer to a commit
+•	Merge – command that lets you take the independent lines of development created by git branch and integrate them into a single branch
+•	Merge Conflict – happens when you merge branches that have competing commits, and git needs your help to decide which changes to incorporate in the final merge
+•	Fetch – command that downloads commits, files, and refs from a remote repository into your local repository
+•	Remote – command that is an interface for managing a list of remote entries that are stored in the repository’s ./.git/config file
 
 
 Sources:
